@@ -4,6 +4,8 @@
 - pyautogui 
 
 
+- openpyxl
+
 
 
 ### 느낀점
