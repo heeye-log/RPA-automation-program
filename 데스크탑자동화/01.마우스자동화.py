@@ -9,7 +9,7 @@ time.sleep(2)
 print(pyautogui.position())
 
 # 마우스 이동
-mac = 손쉬운 사용 vscode 권한 설정
+# mac = 손쉬운 사용 vscode 권한 설정
 pyautogui.moveTo(164,362)
 pyautogui.moveTo(164,362,2)
 
