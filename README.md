@@ -1,6 +1,6 @@
 ## RPA-automation-program
 
-### Schedule
+### List
 |No|내용|
 |------|---|
 |1|pyautogui - 마우스, 키보드, 메세지 자동화|
